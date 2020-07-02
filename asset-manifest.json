@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/summer-samba-cromatic-1/static/css/main.f7a160da.chunk.css",
+    "main.js": "/summer-samba-cromatic-1/static/js/main.757c786a.chunk.js",
+    "main.js.map": "/summer-samba-cromatic-1/static/js/main.757c786a.chunk.js.map",
+    "runtime-main.js": "/summer-samba-cromatic-1/static/js/runtime-main.97c64a4d.js",
+    "runtime-main.js.map": "/summer-samba-cromatic-1/static/js/runtime-main.97c64a4d.js.map",
+    "static/js/2.6617b313.chunk.js": "/summer-samba-cromatic-1/static/js/2.6617b313.chunk.js",
+    "static/js/2.6617b313.chunk.js.map": "/summer-samba-cromatic-1/static/js/2.6617b313.chunk.js.map",
+    "index.html": "/summer-samba-cromatic-1/index.html",
+    "precache-manifest.27b038d27f176629b5b88efaf596fc0d.js": "/summer-samba-cromatic-1/precache-manifest.27b038d27f176629b5b88efaf596fc0d.js",
+    "service-worker.js": "/summer-samba-cromatic-1/service-worker.js",
+    "static/css/main.f7a160da.chunk.css.map": "/summer-samba-cromatic-1/static/css/main.f7a160da.chunk.css.map",
+    "static/js/2.6617b313.chunk.js.LICENSE.txt": "/summer-samba-cromatic-1/static/js/2.6617b313.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97c64a4d.js",
+    "static/js/2.6617b313.chunk.js",
+    "static/css/main.f7a160da.chunk.css",
+    "static/js/main.757c786a.chunk.js"
+  ]
+}
